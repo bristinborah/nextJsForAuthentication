@@ -1,4 +1,8 @@
 import mongoose from "mongoose";
+require('dotenv').config({ path: 'MONGO_URI' });
+const dotenv = require("dotenv");
+
+dotenv.config();
 
 export async function connect(){
     try {
