@@ -20,7 +20,7 @@
     "eslint-config-next": "13.4.19",
     "install": "^0.13.0",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^7.5.0",
+    "mongoose": "^7.5.2",
     "next": "13.4.19",
     "nodemailer": "^6.9.5",
     "postcss": "8.4.29",
