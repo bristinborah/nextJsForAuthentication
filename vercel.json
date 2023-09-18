@@ -5,8 +5,8 @@
   ],
   "routes":[
     {
-      "src": "/(.*)",
-      "dest": "/"
+      "src": "/src/app/signup",
+      "dest": "/src/app/successfull"
     }
   ]
 }
